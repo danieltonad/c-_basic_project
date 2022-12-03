@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\JAMB\JAMB\bin\Debug\JAMB.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\JAMB\JAMB\bin\Debug\JAMB.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\JAMB\JAMB\bin\Debug\JAMB.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\JAMB\JAMB\bin\Debug\JAMB.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\JAMB\JAMB\obj\Debug\JAMB.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\JAMB\JAMB\obj\Debug\JAMB.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\JAMB\JAMB\obj\Debug\JAMB.Form2.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\JAMB\JAMB\obj\Debug\JAMB.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\JAMB\JAMB\obj\Debug\JAMB.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\JAMB\JAMB\obj\Debug\JAMB.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\JAMB\JAMB\obj\Debug\JAMB.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\JAMB\JAMB\obj\Debug\JAMB.pdb

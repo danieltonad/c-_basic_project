@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Quadractic Equation
+</name>
+</assembly>
+<members>
+<member name="T:Quadractic_Equation.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Quadractic_Equation.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Quadractic_Equation.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Quadractic_Equation.My.Resources.Resources._12027">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quadractic_Equation.My.Resources.Resources._To_Be_Free_Wallpaper__by_silwenka">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quadractic_Equation.My.Resources.Resources.aura_rays_hd_1080p_HD">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quadractic_Equation.My.Resources.Resources.brooke_lark_158018_unsplash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quadractic_Equation.My.Resources.Resources.daria_salikova_1401606_unsplash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quadractic_Equation.My.Resources.Resources.guilherme_stecanella_587579_unsplash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quadractic_Equation.My.Resources.Resources.mesut_kaya_726548_unsplash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quadractic_Equation.My.Resources.Resources.stil_326694_unsplash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quadractic_Equation.My.Resources.Resources.toa_heftiba_786390_unsplash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quadractic_Equation.My.Resources.Resources.victor_dementiev_1250406_unsplash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

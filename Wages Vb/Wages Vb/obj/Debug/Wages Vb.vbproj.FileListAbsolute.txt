@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Wages Vb\Wages Vb\bin\Debug\Wages Vb.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Wages Vb\Wages Vb\bin\Debug\Wages Vb.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Wages Vb\Wages Vb\bin\Debug\Wages Vb.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Wages Vb\Wages Vb\bin\Debug\Wages Vb.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Wages Vb\Wages Vb\obj\Debug\Wages Vb.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Wages Vb\Wages Vb\obj\Debug\Wages_Vb.about.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Wages Vb\Wages Vb\obj\Debug\Wages_Vb.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Wages Vb\Wages Vb\obj\Debug\Wages_Vb.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Wages Vb\Wages Vb\obj\Debug\Wages_Vb.wages.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Wages Vb\Wages Vb\obj\Debug\Wages Vb.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Wages Vb\Wages Vb\obj\Debug\Wages Vb.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Wages Vb\Wages Vb\obj\Debug\Wages Vb.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Wages Vb\Wages Vb\obj\Debug\Wages Vb.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Wages Vb\Wages Vb\obj\Debug\Wages_Vb.members.resources

@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\invoice\invoice\obj\Debug\invoice.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\invoice\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\invoice\invoice\obj\Debug\invoice.xml
+c:\users\user\documents\visual studio 2015\Projects\invoice\invoice\bin\Debug\invoice.exe.config
+c:\users\user\documents\visual studio 2015\Projects\invoice\invoice\bin\Debug\invoice.exe
+c:\users\user\documents\visual studio 2015\Projects\invoice\invoice\bin\Debug\invoice.pdb
+c:\users\user\documents\visual studio 2015\Projects\invoice\invoice\bin\Debug\invoice.xml
+c:\users\user\documents\visual studio 2015\Projects\invoice\invoice\obj\Debug\invoice.exe
+c:\users\user\documents\visual studio 2015\Projects\invoice\invoice\obj\Debug\invoice.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\invoice\invoice\obj\Debug\invoice.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\invoice\invoice\obj\Debug\invoice.invoice.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\invoice\invoice\obj\Debug\invoice.main.resources

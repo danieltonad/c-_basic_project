@@ -1,0 +1,24 @@
+c:\users\user\documents\visual studio 2013\Projects\Quadractic Equation\Quadractic Equation\bin\Debug\Quadractic Equation.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Quadractic Equation\Quadractic Equation\bin\Debug\Quadractic Equation.exe
+c:\users\user\documents\visual studio 2013\Projects\Quadractic Equation\Quadractic Equation\bin\Debug\Quadractic Equation.pdb
+c:\users\user\documents\visual studio 2013\Projects\Quadractic Equation\Quadractic Equation\bin\Debug\Quadractic Equation.xml
+c:\users\user\documents\visual studio 2013\Projects\Quadractic Equation\Quadractic Equation\obj\Debug\Quadractic_Equation.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Quadractic Equation\Quadractic Equation\obj\Debug\Quadractic_Equation.Form2.resources
+c:\users\user\documents\visual studio 2013\Projects\Quadractic Equation\Quadractic Equation\obj\Debug\Quadractic_Equation.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Quadractic Equation\Quadractic Equation\obj\Debug\Quadractic Equation.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Quadractic Equation\Quadractic Equation\obj\Debug\Quadractic Equation.exe
+c:\users\user\documents\visual studio 2013\Projects\Quadractic Equation\Quadractic Equation\obj\Debug\Quadractic Equation.xml
+c:\users\user\documents\visual studio 2013\Projects\Quadractic Equation\Quadractic Equation\obj\Debug\Quadractic Equation.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Quadractic Equation\Quadractic Equation\obj\Debug\Quadractic Equation.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Quadractic Equation\Quadractic Equation\bin\Debug\Quadractic Equation.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Quadractic Equation\Quadractic Equation\bin\Debug\Quadractic Equation.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Quadractic Equation\Quadractic Equation\bin\Debug\Quadractic Equation.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Quadractic Equation\Quadractic Equation\bin\Debug\Quadractic Equation.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Quadractic Equation\Quadractic Equation\obj\Debug\Quadractic_Equation.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Quadractic Equation\Quadractic Equation\obj\Debug\Quadractic_Equation.Form2.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Quadractic Equation\Quadractic Equation\obj\Debug\Quadractic_Equation.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Quadractic Equation\Quadractic Equation\obj\Debug\Quadractic Equation.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Quadractic Equation\Quadractic Equation\obj\Debug\Quadractic Equation.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Quadractic Equation\Quadractic Equation\obj\Debug\Quadractic Equation.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Quadractic Equation\Quadractic Equation\obj\Debug\Quadractic Equation.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Quadractic Equation\Quadractic Equation\obj\Debug\Quadractic Equation.vbprojResolveAssemblyReference.cache

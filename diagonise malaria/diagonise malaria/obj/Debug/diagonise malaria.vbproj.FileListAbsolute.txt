@@ -1,0 +1,17 @@
+c:\users\user\documents\visual studio 2015\Projects\diagonise malaria\diagonise malaria\bin\Debug\diagonise malaria.exe.config
+c:\users\user\documents\visual studio 2015\Projects\diagonise malaria\diagonise malaria\obj\Debug\diagonise malaria.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\diagonise malaria\diagonise malaria\obj\Debug\diagonise_malaria.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\diagonise malaria\diagonise malaria\obj\Debug\diagonise_malaria.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\diagonise malaria\diagonise malaria\obj\Debug\diagonise malaria.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\diagonise malaria\diagonise malaria\obj\Debug\diagonise malaria.xml
+c:\users\user\documents\visual studio 2015\Projects\diagonise malaria\diagonise malaria\bin\Debug\diagonise malaria.exe
+c:\users\user\documents\visual studio 2015\Projects\diagonise malaria\diagonise malaria\bin\Debug\diagonise malaria.pdb
+c:\users\user\documents\visual studio 2015\Projects\diagonise malaria\diagonise malaria\bin\Debug\diagonise malaria.xml
+c:\users\user\documents\visual studio 2015\Projects\diagonise malaria\diagonise malaria\obj\Debug\diagonise malaria.exe
+c:\users\user\documents\visual studio 2015\Projects\diagonise malaria\diagonise malaria\obj\Debug\diagonise malaria.pdb
+c:\users\user\documents\visual studio 2015\Projects\diagonise malaria\diagonise malaria\obj\Debug\diagonise_malaria.Form2.resources
+c:\users\user\documents\visual studio 2015\Projects\diagonise malaria\diagonise malaria\obj\Debug\diagonise_malaria.Form3.resources
+c:\users\user\documents\visual studio 2015\Projects\diagonise malaria\diagonise malaria\obj\Debug\diagonise_malaria.Form4.resources
+c:\users\user\documents\visual studio 2015\Projects\diagonise malaria\diagonise malaria\obj\Debug\diagonise_malaria.Form5.resources
+c:\users\user\documents\visual studio 2015\Projects\diagonise malaria\diagonise malaria\obj\Debug\diagonise_malaria.Form6.resources
+c:\users\user\documents\visual studio 2015\Projects\diagonise malaria\diagonise malaria\obj\Debug\diagonise_malaria.Form7.resources

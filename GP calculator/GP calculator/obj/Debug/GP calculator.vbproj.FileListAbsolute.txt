@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\GP calculator\GP calculator\bin\Debug\GP calculator.exe.config
+c:\users\user\documents\visual studio 2015\Projects\GP calculator\GP calculator\bin\Debug\GP calculator.exe
+c:\users\user\documents\visual studio 2015\Projects\GP calculator\GP calculator\bin\Debug\GP calculator.pdb
+c:\users\user\documents\visual studio 2015\Projects\GP calculator\GP calculator\bin\Debug\GP calculator.xml
+c:\users\user\documents\visual studio 2015\Projects\GP calculator\GP calculator\obj\Debug\GP calculator.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\GP calculator\GP calculator\obj\Debug\GP_calculator.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\GP calculator\GP calculator\obj\Debug\GP_calculator.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\GP calculator\GP calculator\obj\Debug\GP calculator.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\GP calculator\GP calculator\obj\Debug\GP calculator.exe
+c:\users\user\documents\visual studio 2015\Projects\GP calculator\GP calculator\obj\Debug\GP calculator.xml
+c:\users\user\documents\visual studio 2015\Projects\GP calculator\GP calculator\obj\Debug\GP calculator.pdb
+c:\users\user\documents\visual studio 2015\Projects\GP calculator\GP calculator\obj\Debug\GP_calculator.Form2.resources

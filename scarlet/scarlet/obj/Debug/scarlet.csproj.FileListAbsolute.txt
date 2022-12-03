@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\scarlet\scarlet\bin\Debug\scarlet.exe.config
+c:\users\user\documents\visual studio 2015\Projects\scarlet\scarlet\bin\Debug\scarlet.exe
+c:\users\user\documents\visual studio 2015\Projects\scarlet\scarlet\bin\Debug\scarlet.pdb
+c:\users\user\documents\visual studio 2015\Projects\scarlet\scarlet\obj\Debug\scarlet.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\scarlet\scarlet\obj\Debug\scarlet.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\scarlet\scarlet\obj\Debug\scarlet.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\scarlet\scarlet\obj\Debug\scarlet.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\scarlet\scarlet\obj\Debug\scarlet.exe
+c:\users\user\documents\visual studio 2015\Projects\scarlet\scarlet\obj\Debug\scarlet.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\scarlet\scarlet\obj\Debug\scarlet.Main.resources

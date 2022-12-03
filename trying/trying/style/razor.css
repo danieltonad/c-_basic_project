@@ -1,0 +1,37 @@
+﻿html,body {
+    margin:0; padding:0;
+}
+
+.counter {
+    background-color: #293955;
+    width: 100%;
+    color: #ffffff;
+    margin: 0%;
+}
+
+#number {
+    margin: 0% auto;
+    padding: .5em;
+    font-size: 8em;
+    width: 10%;
+    font-weight: bold;
+    font-family: 'Century Gothic';
+
+}
+
+#btn {
+    margin: 2% auto;
+    width: 20%;
+    color: black;
+}
+
+.mid {
+    padding: 1.3em;
+    background-color: #FFCC00;
+    
+}
+#name {
+    margin: 2% auto;
+    width: 70%;
+
+}

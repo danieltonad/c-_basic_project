@@ -1,0 +1,12 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Body mass index\Body mass index\bin\Debug\Body mass index.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Body mass index\Body mass index\bin\Debug\Body mass index.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Body mass index\Body mass index\bin\Debug\Body mass index.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Body mass index\Body mass index\bin\Debug\Body mass index.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Body mass index\Body mass index\obj\Debug\Body mass index.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Body mass index\Body mass index\obj\Debug\Body_mass_index.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Body mass index\Body mass index\obj\Debug\Body_mass_index.Form2.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Body mass index\Body mass index\obj\Debug\Body_mass_index.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Body mass index\Body mass index\obj\Debug\Body mass index.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Body mass index\Body mass index\obj\Debug\Body mass index.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Body mass index\Body mass index\obj\Debug\Body mass index.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Body mass index\Body mass index\obj\Debug\Body mass index.pdb

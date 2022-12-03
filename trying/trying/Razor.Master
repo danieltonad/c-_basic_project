@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Razor.master.cs" Inherits="trying.Razor" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="head">
+
+    </div>
+
+    <div class="body">
+
+        <span id="left">
+
+        </span>
+
+
+        <span id="right">
+
+        </span>
+    </div>
+</body>
+</html>
